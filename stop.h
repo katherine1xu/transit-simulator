@@ -1,9 +1,3 @@
-/**
- * @file stop.h
- *
- * @copyright 2019 3081 Staff, All rights reserved.
- */
-
 #ifndef SRC_STOP_H_
 #define SRC_STOP_H_
 
