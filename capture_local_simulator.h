@@ -1,8 +1,3 @@
-/**
- * @file capture_local_simulator.h
- *
- * @copyright 2019 3081 Staff, All rights reserved.
- */
 #ifndef SRC_CAPTURE_LOCAL_SIMULATOR_H_
 #define SRC_CAPTURE_LOCAL_SIMULATOR_H_
 
