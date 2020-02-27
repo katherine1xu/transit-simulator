@@ -1,8 +1,3 @@
-/**
- * @file r_local_simulator.cc
- *
- * @copyright 2019 3081 Staff, All rights reserved.
- */
 #include "src/r_local_simulator.h"
 
 #include <vector>
