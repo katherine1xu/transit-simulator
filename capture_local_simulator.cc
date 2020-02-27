@@ -1,8 +1,3 @@
-/**
- * @file capture_local_simulator.cc
- *
- * @copyright 2019 3081 Staff, All rights reserved.
- */
 #include "src/capture_local_simulator.h"
 
 #include <vector>
