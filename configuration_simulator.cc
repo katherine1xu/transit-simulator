@@ -1,8 +1,3 @@
-/**
- * @file configuration_simulator.cc
- *
- * @copyright 2019 3081 Staff, All rights reserved.
- */
 #include "src/configuration_simulator.h"
 
 #include "src/bus.h"
