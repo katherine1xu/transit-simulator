@@ -1,8 +1,3 @@
-/**
- * @file config_manager.cc
- *
- * @copyright 2019 3081 Staff, All rights reserved.
- */
 #include "src/config_manager.h"
 
 #include <sstream>
