@@ -1,9 +1,3 @@
-/**
- * @file stop.cc
- *
- * @copyright 2019 3081 Staff, All rights reserved.
- */
-
 #include <iostream>
 #include <vector>
 
