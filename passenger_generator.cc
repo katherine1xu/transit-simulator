@@ -1,9 +1,3 @@
-/**
- * @file passenger_generator.cc
- *
- * @copyright 2019 3081 Staff, All rights reserved.
- */
-
 #include "src/passenger_generator.h"
 
 #include "src/passenger.h"
