@@ -1,9 +1,3 @@
-/**
- * @file rtest_passenger_generator.h
- *
- * @copyright 2019 3081 Staff, All rights reserved.
- */
-
 #ifndef SRC_RTEST_PASSENGER_GENERATOR_H_
 #define SRC_RTEST_PASSENGER_GENERATOR_H_
 
