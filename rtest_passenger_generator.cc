@@ -1,9 +1,3 @@
-/**
- * @file rtest_passenger_generator.cc
- *
- * @copyright 2019 3081 Staff, All rights reserved.
- */
-
 #include "src/rtest_passenger_generator.h"
 
 // Nothing to do here, just pass args along
